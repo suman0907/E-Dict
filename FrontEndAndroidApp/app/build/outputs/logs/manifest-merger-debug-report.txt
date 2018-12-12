@@ -1,0 +1,343 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:2:1-68:12
+	package
+		ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:3:5-20
+		INJECTED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:5:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\5ba07e9b115cdc39bf98a7200909a76042ee0626\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\6beb3433215367998f2fa96f484b07e7e00a3457\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\4070d197d431788b7ba60dc818b7e2bcfff42edd\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:7:5-66:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Manjeet Singh\.android\build-cache\803eb847c12d763b91157aa01838d02e4829b197\output\AndroidManifest.xml:9:5-20
+MERGED from [com.myhexaville:smart-image-picker:1.0] C:\Users\Manjeet Singh\.android\build-cache\5a1a3c66682ebf36eb61037225cd59b88fc511e5\output\AndroidManifest.xml:14:5-22:19
+MERGED from [pub.devrel:easypermissions:0.2.1] C:\Users\Manjeet Singh\.android\build-cache\49f5e0e9007dcfd67b8ee6d63a661172ebfbea34\output\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\249ff6816ee827e176db766286ea3505700c8ce4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\70044ab22b9d7f54aecc58eeb258835d491ad38f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.synnapps:carouselview:0.0.9] C:\Users\Manjeet Singh\.android\build-cache\ce0b247f34d14106b54a636d5fb3d5330f7dde3d\output\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\98bd0237208c5566be207840972b27ab828bd45d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\9c30c664807113038d825316633af8518c034a04\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\a396e6c7da863b0c80e4bdc62b0d28d109f6fca5\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\4a61400c8bec626deea5f11d07751edb8740d328\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\5977ebecc576a83452d30b21bcb71921957d1416\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\bb3b8fcaaec89b9ba9978fb6f6ca0efdf366759e\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\e50e59e935572cfb50e63081868c1c369ca2f654\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\5ba07e9b115cdc39bf98a7200909a76042ee0626\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\6beb3433215367998f2fa96f484b07e7e00a3457\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\4070d197d431788b7ba60dc818b7e2bcfff42edd\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\8ebcaabbab62b49be195dfb6af57c039b4900904\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\eba5b4c81e03d20a2704d040827c2e5aaf34a0a3\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\82e96a3c428594ea9aa004fb4d1caa4f274c6148\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\ff0bae625205bb8ea74b01ba50f4e14a9f043082\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\4c56441f6328c581d8f9722558b18bb0dfa67f96\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\a67f1ebb2256fd83f43ea5e065a3f9c705e575b6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\ea20475d944b3ee659479c114e80f04f5fc20ca7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\f0ce39e04a19a62abd7380060f2880ccc2712c35\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\ba5997ac7375a2bf2129bf90e7f73b441ab0d465\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:10:9-38
+	android:theme
+		ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:8:9-46
+activity#edict.EdictMainActivity
+ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:15:9-21:16
+	android:name
+		ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:15:19-57
+intent-filter#android.intent.action.EdictMainActivity+android.intent.category.DEFAULT
+ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:16:9-20:25
+action#android.intent.action.EdictMainActivity
+ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:17:13-78
+	android:name
+		ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:17:21-75
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:19:13-72
+	android:name
+		ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:19:23-69
+activity#edict.services.home.usersign_services.EdictSignUpActivity
+ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:22:19-91
+intent-filter#android.intent.action.SIGNUPACTIVITY+android.intent.category.DEFAULT
+ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.SIGNUPACTIVITY
+ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:24:17-79
+	android:name
+		ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:24:25-76
+activity#edict.services.home.usersign_services.EdictLoginActivity
+ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:29:9-35:20
+	android:name
+		ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:29:19-90
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:33:27-74
+activity#edict.services.home.getfriend.FullFriendInfo
+ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:36:9-42:20
+	android:name
+		ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:36:19-78
+intent-filter#android.intent.action.FULLFRIEND+android.intent.category.DEFAULT
+ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:37:13-41:29
+action#android.intent.action.FULLFRIEND
+ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:38:17-75
+	android:name
+		ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:38:25-72
+activity#edict.services.home.getfriend.WordSearchActivity
+ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:44:9-50:20
+	android:name
+		ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:44:19-82
+intent-filter#android.intent.action.WORDSEARCHACTIVITY+android.intent.category.DEFAULT
+ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:45:13-49:29
+action#android.intent.action.WORDSEARCHACTIVITY
+ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:46:17-83
+	android:name
+		ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:46:25-80
+activity#edict.services.home.getfriend.SearchPhraseActivity
+ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:52:9-57:20
+	android:name
+		ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:52:19-79
+intent-filter#android.intent.action.SEARCHPHRASEACTIVITY+android.intent.category.DEFAULT
+ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:53:13-55:29
+action#android.intent.action.SEARCHPHRASEACTIVITY
+ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:53:29-96
+	android:name
+		ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:53:37-94
+activity#edict.services.home.AboutActivity
+ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:58:9-64:20
+	android:name
+		ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:58:19-67
+intent-filter#android.intent.action.ABOUT+android.intent.category.DEFAULT
+ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:59:13-63:29
+action#android.intent.action.ABOUT
+ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:60:17-70
+	android:name
+		ADDED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml:60:25-67
+uses-sdk
+INJECTED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Manjeet Singh\.android\build-cache\803eb847c12d763b91157aa01838d02e4829b197\output\AndroidManifest.xml:5:5-7:41
+MERGED from [io.reactivex:rxandroid:1.1.0] C:\Users\Manjeet Singh\.android\build-cache\3620082889ea7f089d49de054c7f789ca87218b9\output\AndroidManifest.xml:19:5-43
+MERGED from [com.myhexaville:smart-image-picker:1.0] C:\Users\Manjeet Singh\.android\build-cache\5a1a3c66682ebf36eb61037225cd59b88fc511e5\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.3.1] C:\Users\Manjeet Singh\.android\build-cache\fa597a59b72b7cd6fc212ff421d226cc09a168e0\output\AndroidManifest.xml:8:5-10:41
+MERGED from [pub.devrel:easypermissions:0.2.1] C:\Users\Manjeet Singh\.android\build-cache\49f5e0e9007dcfd67b8ee6d63a661172ebfbea34\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.databinding:adapters:1.3.1] C:\Users\Manjeet Singh\.android\build-cache\2e81059b9e4abad9945a3e8565c04f2848a5b7e8\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] C:\Users\Manjeet Singh\.android\build-cache\0cb9f868e1c05e80b5ea524ed7ee37a61918be01\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\249ff6816ee827e176db766286ea3505700c8ce4\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\70044ab22b9d7f54aecc58eeb258835d491ad38f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.synnapps:carouselview:0.0.9] C:\Users\Manjeet Singh\.android\build-cache\ce0b247f34d14106b54a636d5fb3d5330f7dde3d\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\944116ff89b8c834dc91053b95d80c6a68f08793\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\98bd0237208c5566be207840972b27ab828bd45d\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\9c30c664807113038d825316633af8518c034a04\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\a396e6c7da863b0c80e4bdc62b0d28d109f6fca5\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\4a61400c8bec626deea5f11d07751edb8740d328\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\5977ebecc576a83452d30b21bcb71921957d1416\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\bb3b8fcaaec89b9ba9978fb6f6ca0efdf366759e\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-database:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\fc5a777e396f8d5c0e5e65557466b87da71e7f16\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\c7ad7a63b7ca45dfed443aa38ba66c11336b2bd7\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\b08255afbd12ce2d6fd5507d3d7b71bc1d717614\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage-common:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\72ba239907ecfe72fd8431d1bbeaecb3e1d8181d\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\e50e59e935572cfb50e63081868c1c369ca2f654\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\5ba07e9b115cdc39bf98a7200909a76042ee0626\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\6beb3433215367998f2fa96f484b07e7e00a3457\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\4070d197d431788b7ba60dc818b7e2bcfff42edd\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\8ebcaabbab62b49be195dfb6af57c039b4900904\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\eba5b4c81e03d20a2704d040827c2e5aaf34a0a3\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\82e96a3c428594ea9aa004fb4d1caa4f274c6148\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\ff0bae625205bb8ea74b01ba50f4e14a9f043082\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\4c56441f6328c581d8f9722558b18bb0dfa67f96\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\a67f1ebb2256fd83f43ea5e065a3f9c705e575b6\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\ea20475d944b3ee659479c114e80f04f5fc20ca7\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\f0ce39e04a19a62abd7380060f2880ccc2712c35\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\ba5997ac7375a2bf2129bf90e7f73b441ab0d465\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\249ff6816ee827e176db766286ea3505700c8ce4\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Manjeet Singh\Desktop\android_app\E-Dict\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from [com.myhexaville:smart-image-picker:1.0] C:\Users\Manjeet Singh\.android\build-cache\5a1a3c66682ebf36eb61037225cd59b88fc511e5\output\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from [com.myhexaville:smart-image-picker:1.0] C:\Users\Manjeet Singh\.android\build-cache\5a1a3c66682ebf36eb61037225cd59b88fc511e5\output\AndroidManifest.xml:11:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.myhexaville:smart-image-picker:1.0] C:\Users\Manjeet Singh\.android\build-cache\5a1a3c66682ebf36eb61037225cd59b88fc511e5\output\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from [com.myhexaville:smart-image-picker:1.0] C:\Users\Manjeet Singh\.android\build-cache\5a1a3c66682ebf36eb61037225cd59b88fc511e5\output\AndroidManifest.xml:12:22-77
+activity#com.theartofdev.edmodo.cropper.CropImageActivity
+ADDED from [com.myhexaville:smart-image-picker:1.0] C:\Users\Manjeet Singh\.android\build-cache\5a1a3c66682ebf36eb61037225cd59b88fc511e5\output\AndroidManifest.xml:18:9-21:47
+	android:screenOrientation
+		ADDED from [com.myhexaville:smart-image-picker:1.0] C:\Users\Manjeet Singh\.android\build-cache\5a1a3c66682ebf36eb61037225cd59b88fc511e5\output\AndroidManifest.xml:20:13-49
+	android:theme
+		ADDED from [com.myhexaville:smart-image-picker:1.0] C:\Users\Manjeet Singh\.android\build-cache\5a1a3c66682ebf36eb61037225cd59b88fc511e5\output\AndroidManifest.xml:21:13-44
+	android:name
+		ADDED from [com.myhexaville:smart-image-picker:1.0] C:\Users\Manjeet Singh\.android\build-cache\5a1a3c66682ebf36eb61037225cd59b88fc511e5\output\AndroidManifest.xml:19:13-76
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\249ff6816ee827e176db766286ea3505700c8ce4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\70044ab22b9d7f54aecc58eeb258835d491ad38f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\944116ff89b8c834dc91053b95d80c6a68f08793\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\98bd0237208c5566be207840972b27ab828bd45d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\9c30c664807113038d825316633af8518c034a04\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\a396e6c7da863b0c80e4bdc62b0d28d109f6fca5\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\4a61400c8bec626deea5f11d07751edb8740d328\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\ff0bae625205bb8ea74b01ba50f4e14a9f043082\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\4c56441f6328c581d8f9722558b18bb0dfa67f96\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\a67f1ebb2256fd83f43ea5e065a3f9c705e575b6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\ea20475d944b3ee659479c114e80f04f5fc20ca7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\f0ce39e04a19a62abd7380060f2880ccc2712c35\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\ba5997ac7375a2bf2129bf90e7f73b441ab0d465\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\249ff6816ee827e176db766286ea3505700c8ce4\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Manjeet Singh\.android\build-cache\249ff6816ee827e176db766286ea3505700c8ce4\output\AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\bb3b8fcaaec89b9ba9978fb6f6ca0efdf366759e\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\bb3b8fcaaec89b9ba9978fb6f6ca0efdf366759e\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\bb3b8fcaaec89b9ba9978fb6f6ca0efdf366759e\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\bb3b8fcaaec89b9ba9978fb6f6ca0efdf366759e\output\AndroidManifest.xml:19:19-85
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\5ba07e9b115cdc39bf98a7200909a76042ee0626\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\6beb3433215367998f2fa96f484b07e7e00a3457\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\4070d197d431788b7ba60dc818b7e2bcfff42edd\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\5ba07e9b115cdc39bf98a7200909a76042ee0626\output\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\5ba07e9b115cdc39bf98a7200909a76042ee0626\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\6beb3433215367998f2fa96f484b07e7e00a3457\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\4070d197d431788b7ba60dc818b7e2bcfff42edd\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\5ba07e9b115cdc39bf98a7200909a76042ee0626\output\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\5ba07e9b115cdc39bf98a7200909a76042ee0626\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\6beb3433215367998f2fa96f484b07e7e00a3457\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\5ba07e9b115cdc39bf98a7200909a76042ee0626\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\5ba07e9b115cdc39bf98a7200909a76042ee0626\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\5ba07e9b115cdc39bf98a7200909a76042ee0626\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\5ba07e9b115cdc39bf98a7200909a76042ee0626\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\5ba07e9b115cdc39bf98a7200909a76042ee0626\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\5ba07e9b115cdc39bf98a7200909a76042ee0626\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\5ba07e9b115cdc39bf98a7200909a76042ee0626\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\5ba07e9b115cdc39bf98a7200909a76042ee0626\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\5ba07e9b115cdc39bf98a7200909a76042ee0626\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\5ba07e9b115cdc39bf98a7200909a76042ee0626\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\5ba07e9b115cdc39bf98a7200909a76042ee0626\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\6beb3433215367998f2fa96f484b07e7e00a3457\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\5ba07e9b115cdc39bf98a7200909a76042ee0626\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\5ba07e9b115cdc39bf98a7200909a76042ee0626\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\5ba07e9b115cdc39bf98a7200909a76042ee0626\output\AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\4070d197d431788b7ba60dc818b7e2bcfff42edd\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\4070d197d431788b7ba60dc818b7e2bcfff42edd\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\4070d197d431788b7ba60dc818b7e2bcfff42edd\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\4070d197d431788b7ba60dc818b7e2bcfff42edd\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\4070d197d431788b7ba60dc818b7e2bcfff42edd\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\4070d197d431788b7ba60dc818b7e2bcfff42edd\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\4070d197d431788b7ba60dc818b7e2bcfff42edd\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\4070d197d431788b7ba60dc818b7e2bcfff42edd\output\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\4070d197d431788b7ba60dc818b7e2bcfff42edd\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\4070d197d431788b7ba60dc818b7e2bcfff42edd\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\4070d197d431788b7ba60dc818b7e2bcfff42edd\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\4070d197d431788b7ba60dc818b7e2bcfff42edd\output\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\4070d197d431788b7ba60dc818b7e2bcfff42edd\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\4070d197d431788b7ba60dc818b7e2bcfff42edd\output\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\4070d197d431788b7ba60dc818b7e2bcfff42edd\output\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\4070d197d431788b7ba60dc818b7e2bcfff42edd\output\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\4070d197d431788b7ba60dc818b7e2bcfff42edd\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\4070d197d431788b7ba60dc818b7e2bcfff42edd\output\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\4070d197d431788b7ba60dc818b7e2bcfff42edd\output\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\4070d197d431788b7ba60dc818b7e2bcfff42edd\output\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\4070d197d431788b7ba60dc818b7e2bcfff42edd\output\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\4070d197d431788b7ba60dc818b7e2bcfff42edd\output\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\4070d197d431788b7ba60dc818b7e2bcfff42edd\output\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\4070d197d431788b7ba60dc818b7e2bcfff42edd\output\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\4070d197d431788b7ba60dc818b7e2bcfff42edd\output\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\4070d197d431788b7ba60dc818b7e2bcfff42edd\output\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\4070d197d431788b7ba60dc818b7e2bcfff42edd\output\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\4070d197d431788b7ba60dc818b7e2bcfff42edd\output\AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\8ebcaabbab62b49be195dfb6af57c039b4900904\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\8ebcaabbab62b49be195dfb6af57c039b4900904\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\8ebcaabbab62b49be195dfb6af57c039b4900904\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\8ebcaabbab62b49be195dfb6af57c039b4900904\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\8ebcaabbab62b49be195dfb6af57c039b4900904\output\AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\82e96a3c428594ea9aa004fb4d1caa4f274c6148\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\82e96a3c428594ea9aa004fb4d1caa4f274c6148\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Manjeet Singh\.android\build-cache\82e96a3c428594ea9aa004fb4d1caa4f274c6148\output\AndroidManifest.xml:20:20-65
